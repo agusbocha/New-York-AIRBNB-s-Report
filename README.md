@@ -23,3 +23,15 @@ Next, I loaded the final dataset in power bi and add some other columns and crea
 #### Insights
 Many insights can be taken from the report. I am going to highlight some of them:
 
+
+__Room Type and Neighborhood Analysis__
+
+![Room Type and Neighborhood Analysis](./Room-Type-and-Neighborhood-Analysis.png)
+
+- We can see that, as one can imagine, entire apartments almost double the price of the Private Room and are three times more expensive than Shared Rooms.
+- The Airbnb's in Manhattan are on average the most expensive ones, being Tribeca, Noho and Flatiron district the top 3 most expensive districts in New York.
+- As well, we can see that around 85% of the options available are in Manhattan and Brooklyn.
+
+
+__Distances Analysis__
+![Distances Analysis](./Distances-Analysis.png)
