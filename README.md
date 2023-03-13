@@ -35,3 +35,6 @@ __Room Type and Neighborhood Analysis__
 
 __Distances Analysis__
 ![Distances Analysis](./Distances-Analysis.png)
+
+- The variable "distance to subway station" impacts on the price of the Airbnb. The ones closer to stations are a bit more expensive.
+- Also, distances to some of the most important attractions are relevant to the prices. Examples of that are the distances to attractions such as Central Park, Empire State, Times Square, World Trade Center and Rockefeller Center. The Airbnb's tend to be a bit more expensive the closer it is to those attractions.
