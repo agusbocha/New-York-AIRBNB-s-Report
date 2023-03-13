@@ -21,3 +21,5 @@ The final step was to drop the rows that contained outliers in the price column 
 Next, I loaded the final dataset in power bi and add some other columns and created some new tables that helped me in developing the report.
 
 #### Insights
+Many insights can be taken from the report. I am going to highlight some of them:
+
