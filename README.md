@@ -24,7 +24,7 @@ Next, I loaded the final dataset in power bi and add some other columns and crea
 Many insights can be taken from the report. I am going to highlight some of them:
 
 
-__Room Type and Neighborhood Analysis__
+### __Room Type and Neighborhood Analysis__
 
 ![Room Type and Neighborhood Analysis](./Room-Type-and-Neighborhood-Analysis.png)
 
@@ -33,8 +33,18 @@ __Room Type and Neighborhood Analysis__
 - As well, we can see that around 85% of the options available are in Manhattan and Brooklyn.
 
 
-__Distances Analysis__
+### __Distances Analysis__
 ![Distances Analysis](./Distances-Analysis.png)
 
 - The variable "distance to subway station" impacts on the price of the Airbnb. The ones closer to stations are a bit more expensive.
 - Also, distances to some of the most important attractions are relevant to the prices. Examples of that are the distances to attractions such as Central Park, Empire State, Times Square, World Trade Center and Rockefeller Center. The Airbnb's tend to be a bit more expensive the closer it is to those attractions.
+
+
+### __Reviews Analysis__
+![Reviews Analysis](./Reviews-Analysis.png)
+
+- 80 % of the Airbnb's in NYC have been booked at least once.
+- The most of the Airbnb's have been booked between 1 and 5 times.
+- The most of the Airbnb's have been last visited in June, making sense as it is the peak of the summer season.
+
+These are just a few insights that can be taken. Many more can be observed through analyzing the report deeper :)
