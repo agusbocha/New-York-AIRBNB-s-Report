@@ -49,3 +49,5 @@ Many insights can be taken from the report. I am going to highlight some of them
 - The most of the Airbnb's have been last visited in June, making sense as it is the peak of the summer season.
 
 These are just a few insights that can be taken. Many more can be observed through analyzing the report deeper :)
+
+<img src="https://t.bkit.co/w_642199ae2d50d.gif" />
