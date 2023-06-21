@@ -1,13 +1,13 @@
 # New-York-AIRBNB-s-Report
 
-#### Project Goal:
+### Project Goal:
 The idea of the project is to analize information about NYC Airbnb's obtaining important insights about prices, reviews, difference by neighborhood, difference by their location, among others.
 
-#### Data acquisition:
+### Data acquisition:
 - NYC Airbnb's information was obtained by a kaggle dataset (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data).
 - NYC subway stations geolocation was also obtained by a kaggle dataset (https://www.kaggle.com/datasets/new-york-state/nys-nyc-transit-subway-entrance-and-exit-data)
 
-#### Data Wrangling:
+### Data Wrangling:
 Both datasets were load in python and wrangled using pandas library.
 
 First, I created the price - grouped column and reviews - grouped column from the price and reviews columns respectively. 
@@ -18,10 +18,10 @@ The next step was to work with the subway stations information. I used the BallT
 
 The final step was to drop the rows that contained outliers in the price column because they were making noise to the report.
 
-#### Power Bi
+### Power Bi
 Next, I loaded the final dataset in power bi and add some other columns and created some new tables that helped me in developing the report.
 
-#### Insights
+### Insights
 Many insights can be taken from the report. I am going to highlight some of them:
 
 
